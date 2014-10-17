@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hld:home|Door43 (hld)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hld|d43-hld repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hld/archive/master.zip|d43-hld.zip]]
+
+**Recent Changes**
+{{changes>ns = hld}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hld|Ethnologue data]]
+
